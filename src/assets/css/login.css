@@ -64,7 +64,7 @@ main{
 	padding: 17px;
     display: flex;
     flex-direction: column;
-	margin: 10px 0px;
+	margin-top: 10px;
 }
 .form-login button{
 	margin-top: 20px;
@@ -98,7 +98,7 @@ main{
 }
 .did-forget a{
 	text-decoration: none;
-	margin-top: 10px;
+	margin-top: 5px;
 }
 .login-title h3{
     color: #6c757d;
